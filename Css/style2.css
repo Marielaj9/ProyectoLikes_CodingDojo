@@ -44,15 +44,22 @@
 .box2 .text2{
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    top: -20px;
 }
 .box2 .text3 {
     position: absolute;
-    top: 60px;
+    top: 50px;
     left: 200px;
+}
+.box2 .txt2{
+    position: relative;
+    top: -50px;
+    left: 175px;
 }
 .box2 #boton1{
     position: absolute;
-    top: 70px;
+    top: 60px;
     left: 270px;
     width: 70px;
     height: 30px;
@@ -63,6 +70,8 @@
 .box2 .text4{
     font-size: 15px;
     font-family: cursive;
+    position: relative;
+    top: -40px;
 }
 .box3{
     border: 2px solid;
@@ -74,11 +83,18 @@
 .box3 .text5{
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    top: -10px;
 }
 .box3 .text6{
     position: absolute;
     top: 230px;
     left: 200px;
+}
+.box3 .txt3{
+    position: relative;
+    top: -44px;
+    left: 182px;
 }
 .box3 #boton2{
     position: absolute;
@@ -93,6 +109,8 @@
 .box3 .text7{
     font-size: 15px;
     font-family: cursive;
+    position: relative;
+    top: -40px;
 }
 .box4{
     border: 2px solid;
@@ -104,15 +122,22 @@
 .box4 .text8{
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    top: -10px;
 }
 .box4 .text9{
     position: absolute;
-    top: 410px;
+    top: 400px;
     left: 200px;
+}
+.box4 .txt4{
+    position: relative;
+    top: -48px;
+    left: 175px;
 }
 .box4 #boton3{
     position: absolute;
-    top: 420px;
+    top: 410px;
     left: 270px;
     width: 70px;
     height: 30px;
@@ -123,4 +148,6 @@
 .box4 .text10{
     font-size: 15px;
     font-family: cursive;
+    position: relative;
+    top: -40px;
 }
