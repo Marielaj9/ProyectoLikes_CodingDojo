@@ -1,0 +1,37 @@
+.box{
+    width: 400px;
+    height: 130px;
+    border: 2px solid black;
+    padding: 10px 20px;
+
+}
+.box .text{
+    font-family: cursive;
+    font-size: 23px;
+}
+
+.box .text3{
+    position: absolute;
+    top: 33px;
+    right: 250px;
+    font-family: cursive;
+    font-size: 18px;
+}
+
+.box .boton{
+    position: absolute;
+    top: 46px;
+    right: 170px;
+    font-family: cursive;
+    font-size: 16px;
+    width: 65px;
+    height: 35px;
+    background-color: rgb(253, 215, 143);
+    box-shadow: 3px 3px black;
+    cursor: pointer;
+}
+.box .text2{
+    font-family: cursive;
+    font-size: 18px;
+    padding: 10px;
+}

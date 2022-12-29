@@ -1,0 +1,9 @@
+document.querySelector('#boton1').addEventListener("click",()=>{
+    document.querySelector('#contador1').textContent++;
+});
+document.querySelector('#boton2').addEventListener("click",()=>{
+    document.querySelector('#contador2').textContent++;
+});
+document.querySelector('#boton3').addEventListener("click",()=>{
+    document.querySelector('#contador3').textContent++;
+});
