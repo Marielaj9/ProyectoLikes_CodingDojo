@@ -12,16 +12,22 @@
 
 .box .text3{
     position: absolute;
-    top: 33px;
-    right: 250px;
+    top: 25px;
+    left: 280px;
     font-family: cursive;
     font-size: 18px;
 }
-
+.box .txt{
+    position: relative;
+    top: -130px;
+    left: 270px;
+    font-family: cursive;
+    font-size: 18px;
+}
 .box .boton{
     position: absolute;
-    top: 46px;
-    right: 170px;
+    top: 40apx;
+    left: 360px;
     font-family: cursive;
     font-size: 16px;
     width: 65px;

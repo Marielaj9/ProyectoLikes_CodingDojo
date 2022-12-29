@@ -5,6 +5,9 @@
     padding: 10px 20px;
     margin: 0px;
 }
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 .txt{
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -45,7 +48,7 @@
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     position: relative;
-    top: -20px;
+    top: -10px;
 }
 .box2 .text3 {
     position: absolute;
@@ -55,7 +58,7 @@
 .box2 .txt2{
     position: relative;
     top: -50px;
-    left: 175px;
+    left: 182px;
 }
 .box2 #boton1{
     position: absolute;
@@ -71,7 +74,7 @@
     font-size: 15px;
     font-family: cursive;
     position: relative;
-    top: -40px;
+    top: -50px;
 }
 .box3{
     border: 2px solid;
@@ -84,7 +87,7 @@
     font-size: 20px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     position: relative;
-    top: -10px;
+    top: -8px;
 }
 .box3 .text6{
     position: absolute;
@@ -133,7 +136,7 @@
 .box4 .txt4{
     position: relative;
     top: -48px;
-    left: 175px;
+    left: 182px;
 }
 .box4 #boton3{
     position: absolute;
